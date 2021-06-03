@@ -1,6 +1,6 @@
 # Demo Project
 
-This is short description!
+This is short description.
 
 ## subheaders
 
